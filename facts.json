@@ -1,208 +1,211 @@
 [
-  "Bananas are berries, but strawberries are not.",
-  "Honey never spoils.",
-  "Octopuses have three hearts.",
-  "A day on Venus is longer than a year on Venus.",
-  "Sharks existed before trees.",
-  "The Eiffel Tower can grow taller in summer.",
-  "Wombat poop is cube-shaped.",
-  "An ostrich’s eye is bigger than its brain.",
-  "Sloths can hold their breath longer than dolphins.",
-  "The human nose can detect over 1 trillion smells.",
-  "There are more stars in the universe than grains of sand on Earth.",
-  "Koalas sleep up to 22 hours a day.",
-  "A group of flamingos is called a flamboyance.",
-  "Hot water freezes faster than cold water in some cases.",
-  "Butterflies taste with their feet.",
-  "The shortest war in history lasted 38 minutes.",
-  "Cows have best friends.",
-  "The moon has moonquakes.",
-  "A shrimp’s heart is in its head.",
-  "Some turtles can breathe through their butts.",
-  "The inventor of the microwave got the idea from a melted chocolate bar.",
-  "Cats can’t taste sweetness.",
-  "The first oranges were green.",
-  "A bolt of lightning is five times hotter than the sun.",
-  "Sea otters hold hands while sleeping.",
-  "Humans share 60% of DNA with bananas.",
-  "Pineapples take about two years to grow.",
-  "The dot over the letter i is called a tittle.",
-  "There are more fake flamingos in the world than real ones.",
-  "The unicorn is Scotland’s national animal.",
-  "A snail can sleep for three years.",
-  "Peanuts are not nuts.",
-  "The fingerprints of a koala are almost identical to humans.",
-  "The heart of a blue whale is as big as a car.",
-  "Banging your head against a wall burns calories.",
-  "A crocodile cannot stick its tongue out.",
-  "The inventor of frisbee was turned into a frisbee after death.",
-  "Some cats are allergic to humans.",
-  "A cloud can weigh over a million pounds.",
-  "There is enough gold in Earth’s core to coat the planet.",
-  "The first computer bug was an actual bug.",
-  "M&M stands for Mars and Murrie.",
-  "Spiders can’t fly, but they can balloon through the air.",
-  "The longest hiccuping spree lasted 68 years.",
-  "Water makes different pouring sounds depending on temperature.",
-  "Dolphins have names for each other.",
-  "A group of crows is called a murder.",
-  "Your stomach gets a new lining every few days.",
-  "There are more trees on Earth than stars in the Milky Way.",
-  "The hottest spot on Earth is in Libya.",
-  "Jellyfish have existed longer than dinosaurs.",
-  "Tomatoes were once considered poisonous.",
-  "A baby octopus is about the size of a flea.",
-  "Bamboo grows faster than most plants.",
-  "The brain uses about 20% of your body’s energy.",
-  "A giraffe has the same number of neck bones as humans.",
-  "The Twitter bird’s name is Larry.",
-  "Some frogs can freeze without dying.",
-  "The average person walks the equivalent of five times around Earth.",
-  "The first alarm clock could ring only at 4 a.m.",
-  "A bolt of lightning contains enough energy to toast 100,000 slices of bread.",
-  "The tongue is the strongest muscle relative to size.",
-  "Pigs can’t look up into the sky.",
-  "An apple floats because 25% of it is air.",
-  "The world’s smallest reptile was discovered in Madagascar.",
-  "Polar bears have black skin.",
-  "Mosquitoes are attracted to certain blood types more than others.",
-  "A day on Mercury lasts 176 Earth days.",
-  "The inventor of Coca-Cola originally made it green.",
-  "Elephants can recognize themselves in mirrors.",
-  "A teaspoon of neutron star weighs billions of tons.",
-  "The average cloud weighs about 1.1 million pounds.",
-  "The first video uploaded on YouTube was called Me at the zoo.",
-  "Birds are descendants of dinosaurs.",
-  "The Pacific Ocean is larger than all land masses combined.",
-  "The first known emoji was created in 1999.",
-  "Ants can lift many times their own body weight.",
-  "The human body contains enough iron to make a nail.",
-  "The shortest commercial flight lasts under two minutes.",
-  "Tigers have striped skin, not just striped fur.",
-  "There are more possible chess games than atoms in the universe.",
-  "Some sea snakes can breathe through their skin.",
-  "The average person blinks around 20 times per minute.",
-  "The smell of freshly cut grass is a distress signal from plants.",
-  "A bolt of lightning can strike the same place multiple times.",
-  "The inventor of LEGO was a carpenter.",
-  "The longest English word has 189,819 letters.",
-  "Venus is the hottest planet in the solar system.",
-  "Humans glow in the dark, but too faintly to see.",
-  "The fingerprints of identical twins are different.",
-  "A kangaroo cannot walk backward.",
-  "The world’s oldest known pet cat existed 9,500 years ago.",
-  "There are no muscles in your fingers.",
-  "The average human heart beats over 100,000 times a day.",
-  "Some metals explode when they touch water.",
-  "The strongest bone in the body is the femur.",
-  "A single strand of spaghetti is called a spaghetto.",
-  "The first email was sent in 1971.",
-  "Owls cannot move their eyes.",
-  "The speed of a sneeze can exceed 100 mph.",
-  "The Sahara Desert was once green.",
-  "A blue whale can eat millions of krill in a day.",
-  "The first camera took eight hours to capture a photo.",
-  "The inventor of the Pringles can is buried in one.",
-  "The Earth is not perfectly round.",
-  "Bees can recognize human faces.",
-  "The average person spends six months of life waiting for red lights.",
-  "A cockroach can live without its head for weeks.",
-  "The first domain name ever registered was Symbolics.com.",
-  "A bolt of lightning is about 30,000 kelvins.",
-  "The smell of rain is called petrichor.",
-  "The first roller coaster was inspired by Russian ice slides.",
-  "Dogs can learn over 100 words and gestures.",
-  "There are underwater waterfalls in the ocean.",
-  "The shortest complete sentence in English is Go.",
-  "The inventor of Velcro was inspired by burrs sticking to his dog.",
-  "Penguins propose with pebbles.",
-  "A day on Jupiter is only about 10 hours long.",
-  "Some fish can climb trees.",
-  "The first ever text message said Merry Christmas.",
-  "Earthworms have five hearts.",
-  "A group of owls is called a parliament.",
-  "The coldest temperature recorded on Earth was below -128°F.",
-  "The first pencil had no eraser.",
-  "Tornadoes can make it rain fish.",
-  "There are more possible iterations of a deck of cards than stars on Earth.",
-  "Your brain is more active when dreaming than when awake.",
-  "The inventor of Pac-Man was inspired by pizza.",
-  "Butterflies can see ultraviolet light.",
-  "The world’s largest desert is Antarctica.",
-  "A sneeze cannot happen while sleeping.",
-  "The average person produces enough saliva to fill two pools.",
-  "An octopus can fit through any hole larger than its beak.",
-  "The first goldfish were kept as pets in China.",
-  "Some volcanoes can create lightning.",
-  "The strongest muscle in the body based on force is the jaw.",
-  "The average raindrop falls at about 14 mph.",
-  "Camels have three eyelids.",
-  "The inventor of Nintendo originally sold playing cards.",
-  "The Earth’s rotation is gradually slowing down.",
-  "A flea can jump 350 times its body length.",
-  "The average person has around 67 different species of bacteria in their belly button.",
-  "The first footprints on the moon are still there.",
-  "Cats sleep for about 70% of their lives.",
-  "The human skeleton replaces itself every 10 years.",
-  "There are pink lakes in Australia.",
-  "The first known recipe is for beer.",
-  "An eagle can see a rabbit from miles away.",
-  "The longest recorded chicken flight lasted 13 seconds.",
-  "Some turtles glow under ultraviolet light.",
-  "A violin contains over 70 pieces of wood.",
-  "The inventor of the Rubik’s Cube took a month to solve it.",
-  "The average person laughs around 13 times a day.",
-  "A bolt of lightning can travel through the ground.",
-  "There are giant crystals in caves in Mexico.",
-  "The oldest known chewing gum is over 9,000 years old.",
-  "Some sharks glow in the dark.",
-  "A cat’s purr may help heal bones.",
-  "The world’s largest snowflake was 15 inches wide.",
-  "The inventor of the telephone never called his wife.",
-  "A rainbow is actually a full circle.",
-  "The average person will spend years dreaming.",
-  "The strongest natural material is spider silk.",
-  "A jellyfish is mostly water.",
-  "The first ever website is still online.",
-  "The brain itself cannot feel pain.",
-  "The shortest war involved Britain and Zanzibar.",
-  "Some birds can sleep while flying.",
-  "The average person eats thousands of sandwiches in a lifetime.",
-  "The inventor of chess is unknown.",
-  "A crocodile’s bite is one of the strongest in the animal kingdom.",
-  "The Earth travels through space at incredible speed.",
-  "The first movie ever made was only a few seconds long.",
-  "The tallest mountain is not Everest if measured from base to peak.",
-  "Some lizards can squirt blood from their eyes.",
-  "A hummingbird is the only bird that can fly backward.",
-  "The average person dreams four to six times a night.",
-  "The first umbrellas were used for shade.",
-  "A starfish can regrow lost arms.",
-  "The world’s deepest postbox is underwater in Japan.",
-  "The inventor of popcorn machines loved popcorn.",
-  "The average cloud moves at around 30 mph.",
-  "A cheetah cannot roar.",
-  "The first known map is over 14,000 years old.",
-  "Some whales sing songs that last for hours.",
-  "The average person spends about one-third of life sleeping.",
-  "The moon slowly drifts away from Earth every year.",
-  "An astronaut grows taller in space.",
-  "The world’s largest living structure is the Great Barrier Reef.",
-  "The inventor of blue jeans never wore them.",
-  "A camel can drink over 100 liters of water quickly.",
-  "Some bacteria can survive in space.",
-  "The first bicycle had no pedals.",
-  "A tiger’s roar can be heard miles away.",
-  "The average person sheds millions of skin cells daily.",
-  "The fastest land animal is the cheetah.",
-  "Some spiders keep tiny frogs as pets.",
-  "The Earth has a wobble in its rotation.",
-  "The first ice cream cones became popular at a fair.",
-  "A raccoon can remember solutions for years.",
-  "The average person will consume tons of food in a lifetime.",
-  "The world’s quietest room is almost silent.",
-  "Some plants can communicate with each other.",
-  "The first fireworks were invented in China.",
-  "A dolphin sleeps with one eye open.",
-  "The average person has thousands of thoughts per day."
+  "Honey never spoils because it contains very little water and is naturally acidic, making it difficult for bacteria to survive.",
+  
+  "Octopuses have three hearts: two pump blood to the gills, while the third pumps blood to the rest of the body.",
+
+  "Bananas are technically berries because they grow from a single flower with one ovary, while strawberries are not true berries.",
+
+  "A day on Venus is longer than a year on Venus because the planet rotates very slowly on its axis.",
+
+  "Sharks existed before trees appeared on Earth, meaning sharks are older than forests by millions of years.",
+
+  "Sea otters hold hands while sleeping in water so they do not drift away from each other.",
+
+  "The Eiffel Tower becomes slightly taller during summer because heat causes the metal to expand.",
+
+  "Wombats produce cube-shaped poop, which helps prevent it from rolling away and allows them to mark territory effectively.",
+
+  "The human brain uses around 20% of the body’s total energy even though it makes up only a small part of body weight.",
+
+  "A bolt of lightning is hotter than the surface of the sun and can reach temperatures of about 30,000 Kelvin.",
+
+  "Koalas sleep for up to 22 hours a day because eucalyptus leaves provide very little energy.",
+
+  "Dolphins use unique whistle sounds to identify each other, almost like humans using names.",
+
+  "Cows form close friendships with other cows and can become stressed when separated from their favorite companions.",
+
+  "Sloths can hold their breath longer than dolphins by slowing down their heart rate underwater.",
+
+  "A shrimp’s heart is located inside its head rather than its chest.",
+
+  "Butterflies taste food using sensors located on their feet instead of their mouths.",
+
+  "The fingerprints of koalas are so similar to humans that they can sometimes confuse crime scene investigators.",
+
+  "There are more stars in the universe than grains of sand on all the beaches on Earth.",
+
+  "The moon has moonquakes, which are similar to earthquakes but usually weaker and caused by tidal forces.",
+
+  "Cats cannot taste sweetness because they lack the taste receptors needed to detect sweet flavors.",
+
+  "A cloud may look light and fluffy, but an average cloud can weigh more than a million pounds.",
+
+  "Pineapples take nearly two years to grow completely before they are ready to harvest.",
+
+  "The unicorn is the national animal of Scotland and symbolizes purity and strength in Scottish mythology.",
+
+  "An ostrich’s eye is larger than its brain, giving it excellent eyesight to spot danger from far away.",
+
+  "Jellyfish have existed on Earth for more than 500 million years, making them older than dinosaurs.",
+
+  "A crocodile cannot stick its tongue out because it is attached to the roof of its mouth.",
+
+  "The inventor of the microwave oven discovered the idea accidentally when a chocolate bar melted in his pocket near radar equipment.",
+
+  "The smell of freshly cut grass is actually a distress signal released by plants when they are damaged.",
+
+  "Penguins often propose to their partners by giving them a smooth pebble as a gift.",
+
+  "The human nose can recognize more than one trillion different smells.",
+
+  "Polar bears have black skin underneath their white fur to help absorb heat from the sun.",
+
+  "An apple floats in water because about 25% of its volume is made of air.",
+
+  "The Pacific Ocean is larger than all of Earth’s land areas combined.",
+
+  "The first computer bug was an actual insect trapped inside a computer in 1947.",
+
+  "Birds are modern descendants of dinosaurs and share many physical similarities with ancient species.",
+
+  "A kangaroo cannot walk backward because of the shape of its legs and tail.",
+
+  "Elephants can recognize themselves in mirrors, which is considered a sign of self-awareness.",
+
+  "The first email was sent in 1971 by computer engineer Ray Tomlinson.",
+
+  "The shortest war in recorded history lasted only 38 minutes between Britain and Zanzibar in 1896.",
+
+  "A blue whale’s heart is so large that a small child could crawl through its arteries.",
+
+  "The Earth is not perfectly round and is slightly flattened at the poles due to rotation.",
+
+  "Some frogs can freeze during winter and thaw back to life when temperatures rise again.",
+
+  "The Twitter bird mascot was officially named Larry after basketball player Larry Bird.",
+
+  "The strongest bone in the human body is the femur, which supports most of a person’s weight.",
+
+  "Tomatoes were once believed to be poisonous in Europe because wealthy people became sick after eating them from lead plates.",
+
+  "A snail can sleep for several years during extremely dry weather conditions.",
+
+  "The world’s largest desert is Antarctica, not the Sahara, because deserts are defined by low rainfall.",
+
+  "The first video uploaded to YouTube was titled 'Me at the zoo' and was uploaded in 2005.",
+
+  "Owls cannot move their eyes, so they rotate their heads to look around.",
+
+  "A giraffe has the same number of neck bones as humans, but each bone is much longer.",
+
+  "The average person walks enough steps in a lifetime to circle Earth multiple times.",
+
+  "Mosquitoes are more attracted to certain blood types and body heat than others.",
+
+  "The smell after rain is called petrichor and comes from oils released by soil and plants.",
+
+  "Dogs can understand over 100 words and gestures, making them highly trainable animals.",
+
+  "The inventor of LEGO started the company by making wooden toys before plastic bricks became popular.",
+
+  "Some fish can climb trees by using their fins and body movements to grip surfaces.",
+
+  "The human body contains enough iron to make a small metal nail.",
+
+  "A hummingbird is the only bird capable of flying backward due to the unique movement of its wings.",
+
+  "The first alarm clock could only ring at 4 a.m. because it was designed for factory workers.",
+
+  "There are underwater waterfalls caused by differences in water density and temperature.",
+
+  "A cat’s purr may help heal bones and tissues because of the vibration frequencies it produces.",
+
+  "The Earth’s rotation is gradually slowing down, making days slightly longer over millions of years.",
+
+  "An astronaut becomes slightly taller in space because gravity no longer compresses the spine.",
+
+  "The first oranges were actually green in color before orange varieties became common.",
+
+  "A flea can jump more than 300 times its own body length, making it one of the best jumpers in nature.",
+
+  "The inventor of Velcro got the idea after noticing burrs sticking to his dog’s fur.",
+
+  "Camels have three eyelids and long eyelashes to protect their eyes from desert sand.",
+
+  "The brain itself cannot feel pain because it has no pain receptors.",
+
+  "Some volcanoes create lightning storms inside ash clouds during eruptions.",
+
+  "A group of flamingos is called a flamboyance because of their bright and colorful appearance.",
+
+  "The average human heart beats over 100,000 times every single day.",
+
+  "The world’s oldest known chewing gum is over 9,000 years old and was made from tree bark tar.",
+
+  "A rainbow is actually a full circle, but people usually only see half from the ground.",
+
+  "The first bicycles had no pedals and riders pushed themselves forward with their feet.",
+
+  "The Earth travels around the sun at a speed of about 107,000 kilometers per hour.",
+
+  "The average person spends about one-third of their life sleeping.",
+
+  "Some sharks can glow in the dark due to special cells in their skin.",
+
+  "A group of crows is called a murder because of old folklore and superstitions.",
+
+  "The inventor of Pac-Man was inspired by the shape of a pizza missing one slice.",
+
+  "Tigers have striped skin as well as striped fur, making every tiger’s pattern unique.",
+
+  "The tallest mountain measured from base to peak is Mauna Kea in Hawaii, not Mount Everest.",
+
+  "Bees can recognize human faces by remembering patterns the same way humans do.",
+
+  "The world’s quietest room is so silent that people can hear their own heartbeat inside it.",
+
+  "A dolphin sleeps with only one half of its brain at a time so it can continue breathing.",
+
+  "The moon slowly moves away from Earth by a few centimeters every year.",
+
+  "Some lizards can squirt blood from their eyes to scare away predators.",
+
+  "The Great Barrier Reef is the largest living structure on Earth and can even be seen from space.",
+
+  "Earthworms have five hearts that help pump blood throughout their bodies.",
+
+  "The inventor of Nintendo originally started the company by selling playing cards in Japan.",
+
+  "A cheetah cannot roar like a lion but instead makes sounds similar to chirps and purrs.",
+
+  "The first camera photograph required an exposure time of several hours to capture the image.",
+
+  "The human skeleton completely replaces itself over the course of about 10 years.",
+
+  "There are more possible chess game combinations than atoms in the observable universe.",
+
+  "The average person laughs around 13 times each day, though it varies greatly by personality.",
+
+  "The first fireworks were invented in ancient China using bamboo and gunpowder.",
+
+  "Some bacteria are capable of surviving in the harsh conditions of outer space.",
+
+  "A raccoon can remember the solution to a puzzle for several years after learning it.",
+
+  "The strongest natural material known is spider silk, which is stronger than steel by weight.",
+
+  "An octopus can squeeze through tiny openings because it has no bones in its body.",
+
+  "The Earth has a slight wobble in its rotation called axial precession, which changes over thousands of years.",
+
+  "The average person sheds millions of skin cells every day without noticing.",
+
+  "A violin is made from more than 70 separate pieces of carefully shaped wood.",
+
+  "The inventor of the Rubik’s Cube originally created it to teach students about three-dimensional movement.",
+
+  "Some whales sing songs that can last for hours and travel across oceans.",
+
+  "The first umbrellas were designed to provide shade from the sun rather than protection from rain."
 ]
